@@ -1,4 +1,4 @@
-# Projet-2-OCR
+# Projet-2-OCR     WORDPRESS
 
 http://projet-2.valentin-sagot-dutertre.com/
 
